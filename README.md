@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 💻 Aspiring Software Developer with a strong interest in *AI, Machine Learning, and Web Development*.
+- 💻 Aspiring Software Developer with a strong interest in *AI, Ethical Hacking, and Web Development*.
 - 🌱 I’m constantly learning new technologies and improving my coding skills.
 - 💡 I enjoy working on challenging projects and contributing to open-source.
 
@@ -18,6 +18,20 @@
 - *Web Development*: HTML, CSS, JavaScript, React.js
 - *Database*: SQL, MySQL
 - *Tools*: Git, VS Code, GitHub
+
+---
+
+
+## Projects
+
+Here are some of my recent projects:
+- *[Project Name](link-to-project)*: Brief description of the project.
+- *[Project Name](link-to-project)*: Brief description of the project.
+- *[Project Name](link-to-project)*: Brief description of the project.
+
+---
+
+Feel free to explore my repositories and reach out if you’d like to collaborate on a project!
 
 ---
 
