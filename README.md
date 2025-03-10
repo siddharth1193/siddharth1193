@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Siddharth Kumar
 
-🎓 Currently pursuing *B.Tech in Computer Science and Engineering* at TIT & Science, Bhopal.
+🎓 Currently pursuing *B.Tech in Computer Science and Engineering* at Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal.
 
 ---
 
